@@ -183,7 +183,7 @@ We need to setup the software Vagrant relies on. The _required_ software is list
 * **Chef** gem - For provisioning support (gem install chef)
 * **SSH**
 
-These are typically straightforward to install using the operating systems default package
+These are typically straightforward to install using the operating system's default package
 management tools, so the details won't be gone into here. If prompted, make sure that the
 SSH package is set to use **basic username/password authentication** and write down the
 username/password for later.
